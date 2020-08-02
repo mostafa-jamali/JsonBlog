@@ -21,12 +21,12 @@ function UsersTable() {
                 </thead>
                 <tbody>
                     {
-                        users.map(user => <tr key={user.id}>
-                            <th>{user.id}</th>
-                            <th>{user.username}</th>
-                            <th>{user.name}</th>
-                            <th>{user.email}</th>
-                            <th>{user.website}</th>
+                        users.map(user => <tr key={user.id} style={{cursor:"pointer"}}>
+                            <td>{user.id}</td>
+                            <td>{user.username}</td>
+                            <td>{user.name}</td>
+                            <td>{user.email}</td>
+                            <td>{user.website}</td>
                         </tr>)
                     }
                 </tbody>
