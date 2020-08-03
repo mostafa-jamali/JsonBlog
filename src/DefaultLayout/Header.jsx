@@ -18,7 +18,7 @@ const Header = (props) => {
     return (
         <Container fluid>
         <Navbar color="light" light expand="md">
-            <NavbarBrand href="/">reactstrap</NavbarBrand>
+            <NavbarBrand href="/">My JsonBlog</NavbarBrand>
             <NavbarToggler onClick={toggle} />
             <Collapse isOpen={isOpen} navbar>
                 <Nav className="mr-auto" navbar>
