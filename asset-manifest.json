@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JsonPlaceHolder-Blog/static/css/main.76e27cc9.chunk.css",
+    "main.js": "/JsonPlaceHolder-Blog/static/js/main.a2b6dc49.chunk.js",
+    "main.js.map": "/JsonPlaceHolder-Blog/static/js/main.a2b6dc49.chunk.js.map",
+    "runtime-main.js": "/JsonPlaceHolder-Blog/static/js/runtime-main.7a0d1110.js",
+    "runtime-main.js.map": "/JsonPlaceHolder-Blog/static/js/runtime-main.7a0d1110.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/JsonPlaceHolder-Blog/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.62481ada.chunk.js": "/JsonPlaceHolder-Blog/static/js/2.62481ada.chunk.js",
+    "static/js/2.62481ada.chunk.js.map": "/JsonPlaceHolder-Blog/static/js/2.62481ada.chunk.js.map",
+    "index.html": "/JsonPlaceHolder-Blog/index.html",
+    "precache-manifest.b4d3c7ac05437af098dc181f58fc0846.js": "/JsonPlaceHolder-Blog/precache-manifest.b4d3c7ac05437af098dc181f58fc0846.js",
+    "service-worker.js": "/JsonPlaceHolder-Blog/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/JsonPlaceHolder-Blog/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.76e27cc9.chunk.css.map": "/JsonPlaceHolder-Blog/static/css/main.76e27cc9.chunk.css.map",
+    "static/js/2.62481ada.chunk.js.LICENSE.txt": "/JsonPlaceHolder-Blog/static/js/2.62481ada.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a0d1110.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.62481ada.chunk.js",
+    "static/css/main.76e27cc9.chunk.css",
+    "static/js/main.a2b6dc49.chunk.js"
+  ]
+}
