@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/JsonplaceHolder-Blog/static/css/main.76e27cc9.chunk.css",
-    "main.js": "/JsonplaceHolder-Blog/static/js/main.d9785c44.chunk.js",
-    "main.js.map": "/JsonplaceHolder-Blog/static/js/main.d9785c44.chunk.js.map",
-    "runtime-main.js": "/JsonplaceHolder-Blog/static/js/runtime-main.89696e9e.js",
-    "runtime-main.js.map": "/JsonplaceHolder-Blog/static/js/runtime-main.89696e9e.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/JsonplaceHolder-Blog/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.62481ada.chunk.js": "/JsonplaceHolder-Blog/static/js/2.62481ada.chunk.js",
-    "static/js/2.62481ada.chunk.js.map": "/JsonplaceHolder-Blog/static/js/2.62481ada.chunk.js.map",
-    "index.html": "/JsonplaceHolder-Blog/index.html",
-    "precache-manifest.7e57bf7a619aaa37b32b530ccdedca07.js": "/JsonplaceHolder-Blog/precache-manifest.7e57bf7a619aaa37b32b530ccdedca07.js",
-    "service-worker.js": "/JsonplaceHolder-Blog/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/JsonplaceHolder-Blog/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.76e27cc9.chunk.css.map": "/JsonplaceHolder-Blog/static/css/main.76e27cc9.chunk.css.map",
-    "static/js/2.62481ada.chunk.js.LICENSE.txt": "/JsonplaceHolder-Blog/static/js/2.62481ada.chunk.js.LICENSE.txt"
+    "main.css": "/JsonBlog/static/css/main.76e27cc9.chunk.css",
+    "main.js": "/JsonBlog/static/js/main.7919dd38.chunk.js",
+    "main.js.map": "/JsonBlog/static/js/main.7919dd38.chunk.js.map",
+    "runtime-main.js": "/JsonBlog/static/js/runtime-main.3242e5f9.js",
+    "runtime-main.js.map": "/JsonBlog/static/js/runtime-main.3242e5f9.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/JsonBlog/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.62481ada.chunk.js": "/JsonBlog/static/js/2.62481ada.chunk.js",
+    "static/js/2.62481ada.chunk.js.map": "/JsonBlog/static/js/2.62481ada.chunk.js.map",
+    "index.html": "/JsonBlog/index.html",
+    "precache-manifest.5851ca25a790a62de619822d3e401500.js": "/JsonBlog/precache-manifest.5851ca25a790a62de619822d3e401500.js",
+    "service-worker.js": "/JsonBlog/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/JsonBlog/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.76e27cc9.chunk.css.map": "/JsonBlog/static/css/main.76e27cc9.chunk.css.map",
+    "static/js/2.62481ada.chunk.js.LICENSE.txt": "/JsonBlog/static/js/2.62481ada.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.89696e9e.js",
+    "static/js/runtime-main.3242e5f9.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.62481ada.chunk.js",
     "static/css/main.76e27cc9.chunk.css",
-    "static/js/main.d9785c44.chunk.js"
+    "static/js/main.7919dd38.chunk.js"
   ]
 }
